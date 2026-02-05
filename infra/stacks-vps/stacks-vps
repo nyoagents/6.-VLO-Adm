@@ -1,0 +1,137 @@
+# Infraestrutura e Credenciais
+
+> ⚠️ **CONFIDENCIAL** - Não compartilhe este documento.
+
+---
+
+## VPS
+
+| Chave | Valor |
+|-------|-------|
+| Provedor | (ex: Hostinger, Contabo, AWS) |
+| IP | 5.161.43.182 |
+| Custo / Plano | R$ 70,00 |
+| Recursos | 3VCPU / 4GB RAM / 80 GB SSD |
+| Senha SSH | ikLVcuAKhTsE|
+| User | root |
+| Token Swarm | (preencher se aplicável) |
+
+---
+
+## PORTAINER
+
+| Chave | Valor |
+|-------|-------|
+| URL | https://portainer-vlo.nyoagents.com.br |
+| Login | admin |
+| Senha | gbQ3vV7jrcF4Jc |
+
+---
+
+## N8N
+
+| Chave | Valor |
+|-------|-------|
+| URL | https://n8n-xxx.dominio.com.br |
+| Login | email@dominio.com |
+| Senha | (preencher) |
+| Encryption Key | xwGBSSNmZM5Xmh |
+
+---
+
+## EVOLUTION API
+
+| Chave | Valor |
+|-------|-------|
+| URL | https://evo-xxx.dominio.com.br/manager |
+| Global Key | (preencher) |
+
+---
+
+## RABBIT MQ
+
+| Chave | Valor |
+|-------|-------|
+| Senha | 6TiUt2CoGb2xt1 |
+
+---
+
+## REDIS
+
+| Chave | Valor |
+|-------|-------|
+| Senha | FtdLj0a0yOZDG7 |
+
+---
+
+## POSTGRES
+
+| Chave | Valor |
+|-------|-------|
+| Host | localhost / IP |
+| Porta | 5432 |
+| User | postgres |
+| Senha | vKJ58neHTGkaez |
+| Database | (nome do banco) |
+
+---
+
+## SUPABASE
+
+| Chave | Valor |
+|-------|-------|
+| URL | https://xxx.supabase.co |
+| Anon Key | (preencher) |
+| Service Key | (preencher) |
+| Senha | (preencher) |
+
+---
+
+## GOOGLE
+
+| Chave | Valor |
+|-------|-------|
+| E-mail | xxx@gmail.com |
+| Senha | (preencher) |
+| Client ID Drive | (preencher).apps.googleusercontent.com |
+| Chave Secreta | (preencher) |
+
+---
+
+## OPENAI
+
+| Chave | Valor |
+|-------|-------|
+| API Key | sk-xxx |
+| Org ID | org-xxx |
+
+---
+
+## ANTHROPIC
+
+| Chave | Valor |
+|-------|-------|
+| API Key | sk-ant-xxx |
+
+---
+
+## OUTROS SERVIÇOS
+
+| Serviço | Chave | Valor |
+|---------|-------|-------|
+| (serviço) | API Key | (preencher) |
+| (serviço) | Login | (preencher) |
+| (serviço) | Senha | (preencher) |
+
+---
+
+## Histórico de Alterações
+
+| Data | O que mudou | Responsável |
+|------|-------------|-------------|
+| DD/MM/AAAA | Criação do documento | @nome |
+| DD/MM/AAAA | Atualização senha N8N | @nome |
+
+---
+
+*Última atualização: DD/MM/AAAA*
